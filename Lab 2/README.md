@@ -54,18 +54,16 @@ Empty; or
 A node containing some value, a left subtree, and a right subtree
 
 One realization of this definition in Python is the following class to represent tree nodes and, again, the use of "mt" to represent empty.
+[![alt text](/clements/2174-csc202/Labs/pict.png)](https://www.brinckerhoff.org "Title")
+
+```
 class TreeNode:
-
    def __init__(self, value, left, right):
-
       self.value = value
-
       self.left = left
-
       self.right = right
-
    # boilerplate omitted
-
+```
 One can use instances of this class to create the pictured tree as follows.
 image
 
