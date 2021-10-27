@@ -15,7 +15,7 @@ I’m not going to try to include a full intro to Git here; instead, I’m just 
 The rest of this lab contains many sections and many numbered parts of each section. You’ll see that the *"lab1.py"* template comes with lines indicating each of these sections and parts. You should put your answers to each part in the corresponding place in the code. Your code will be sliced and diced programmatically, so if you put your work in the wrong part of the file, or delete or alter the existing headers, you might not get credit for your work, and that would make us both sad.
 
 ## 2 - Data Definitions
-  Each of the following programs requires a data definition. In many cases, it may be just a single commented line. In other cases, the data definition may require creation of a new class. In this case, be sure to    include all of the methods required by a new class: __init__, __repr__, and __eq__.
+Each of the following programs requires a data definition. In many cases, it may be just a single commented line. In other cases, the data definition may require creation of a new class. In this case, be sure to    include all of the methods required by a new class: __init__, __repr__, and __eq__.
 
 Provide two examples for each data definition.
 1. A program that converts celsius to fahrenheit temperatures must accept a celsius temperature as input, and return a fahrenheit temperature as a result. Write a data definition for each of these two kinds of values.
