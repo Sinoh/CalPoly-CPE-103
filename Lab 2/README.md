@@ -54,7 +54,8 @@ Empty; or
 A node containing some value, a left subtree, and a right subtree
 
 One realization of this definition in Python is the following class to represent tree nodes and, again, the use of "mt" to represent empty.
-[!Test](https://www.brinckerhoff.org/clements/2174-csc202/Labs/pict.png "Title")
+
+![Test](https://www.brinckerhoff.org/clements/2174-csc202/Labs/pict.png "Title")
 
 ```
 class TreeNode:
