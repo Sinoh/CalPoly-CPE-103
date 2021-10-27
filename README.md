@@ -1,4 +1,4 @@
-# School
+## School
 California Polytechnic State University
 
 ## Course Information
