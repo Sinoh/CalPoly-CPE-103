@@ -1,5 +1,5 @@
 # Lab 1
-
+[Link](https://www.brinckerhoff.org/clements/2174-csc202/Labs/lab1.html)
 ## 1 - Git
 Well, folks, we’re going to be using git this quarter.
 

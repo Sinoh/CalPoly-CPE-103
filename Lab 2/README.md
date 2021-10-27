@@ -1,4 +1,7 @@
 # Lab 2
+
+[Link](https://www.brinckerhoff.org/clements/2174-csc202/Labs/lab2.html)
+
 To solve a problem, one often considers different ways to represent the relevant data. In some instances, the data might reasonably be placed in a sequence or the data might naturally dictate a hierarchy. This lab introduces the basic structure of and operations on two of the most common data structures: a linked list and a binary tree.
 
 Here’s the invitation link for this lab’s repo:
@@ -19,6 +22,7 @@ class Pair:
     # boilerplate omitted
 ```
 One can use instances of this class to create a list of the numbers **7** ,**4** ,**2** ,**19** ,**42** (in this order) as follows.
+
 **Pair(7, Pair(4, Pair(2, Pair(19, Pair(42, "mt")))))**
 
 This explicit form is useful at this point to emphasize the structure of the data. Working with longer lists, say of millions of elements, will require building a list incrementally, and we will get there.
