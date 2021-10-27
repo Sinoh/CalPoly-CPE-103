@@ -3,6 +3,9 @@ California Polytechnic State University
 
 ## Course Information
 CPE-103 (Spring 2017)
+
+Fundamentals of Computer Science III
+
 Professor: N/A
 
 ## Notes:
